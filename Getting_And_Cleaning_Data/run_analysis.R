@@ -34,11 +34,11 @@ test <- cbind(testSubjects, testActivities, test)
 # merge datasets
 combined <- rbind(train, test)
 
-# Convert classLabels to activityName 
+# Convert classlabels to activityname 
 combined[["Activity"]] <- factor(combined[, "Activity"], levels = activityLabels[["classLabels"]], labels = activityLabels[["activityName"]])
 combined[["SubjectNum"]] <- as.factor(combined[, "SubjectNum"])
 combined <- reshape2::melt(data = combined, id = c("SubjectNum", "Activity"))
 combined <- reshape2::dcast(data = combined, SubjectNum + Activity ~ variable, fun.aggregate = mean)
 
-# output to tidyData.txt
-data.table::fwrite(x = combined, file = "tidyData.txt")
+# output to tidydata.txt
+data.table::fwrite(x = combined, file = "tidydata.txt")
