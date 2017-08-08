@@ -17,4 +17,4 @@ Data Zip File Location: UC Irvine Repo
 | R_Script  | Analysis R-script  | Content Cell |
 | Github Repo  | Github Repo  | Content Cell |
 | Cookbook  | CookBook.md  | Content Cell |
-| Readme  | README.md  | Content Cell |
+| Readme  | README.md  | [README.md](https://github.com/john-maguire/datasciencecoursera/blob/master/Getting_And_Cleaning_Data/README.md) |
