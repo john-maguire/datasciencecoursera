@@ -16,5 +16,5 @@ Data Zip File Location: [UC Irvine Files](http://archive.ics.uci.edu/ml/machine-
 | ------------- | ------------- | ------------ |
 | R_Script  | Analysis R-script  | [run_analysis.R](https://github.com/john-maguire/datasciencecoursera/blob/master/Getting_And_Cleaning_Data/run_analysis.R) |
 | Github Repo  | Github Repo  | [Getting and Cleaning Data](https://github.com/john-maguire/datasciencecoursera/tree/master/Getting_And_Cleaning_Data) |
-| Cookbook  | CookBook.md  | Content Cell |
+| Cookbook  | CookBook.md  | [CookBook.md](https://github.com/john-maguire/datasciencecoursera/blob/master/Getting_And_Cleaning_Data/CodeBook.md) |
 | Readme  | README.md  | [README.md](https://github.com/john-maguire/datasciencecoursera/blob/master/Getting_And_Cleaning_Data/README.md) |
