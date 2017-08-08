@@ -1,10 +1,10 @@
-Getting and Cleaning Data Project
+## Getting and Cleaning Data Project
 
 Author: John Maguire
 
 Data Zip File Location: UC Irvine Repo
 
-Goal of the Project
+### Goal of the Project
 
 1. A tidy data set
 2. A link to a Github repository with your script for performing the analysis
