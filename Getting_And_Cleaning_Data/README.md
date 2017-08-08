@@ -2,7 +2,7 @@
 
 Author: John Maguire
 
-Data Zip File Location: UC Irvine Repo
+Data Zip File Location: [UC Irvine Files](http://archive.ics.uci.edu/ml/machine-learning-databases/00240/)
 
 ### Goal of the Project
 
